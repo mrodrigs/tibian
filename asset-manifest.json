@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/tibianfinder/static/js/main.4ced2cd8.chunk.js",
+    "main.js.map": "/tibianfinder/static/js/main.4ced2cd8.chunk.js.map",
+    "runtime-main.js": "/tibianfinder/static/js/runtime-main.11a6e0b4.js",
+    "runtime-main.js.map": "/tibianfinder/static/js/runtime-main.11a6e0b4.js.map",
+    "static/css/2.1bd2ab2f.chunk.css": "/tibianfinder/static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.73b8fff8.chunk.js": "/tibianfinder/static/js/2.73b8fff8.chunk.js",
+    "static/js/2.73b8fff8.chunk.js.map": "/tibianfinder/static/js/2.73b8fff8.chunk.js.map",
+    "index.html": "/tibianfinder/index.html",
+    "precache-manifest.8443d0975b474e4d320686efd5102d08.js": "/tibianfinder/precache-manifest.8443d0975b474e4d320686efd5102d08.js",
+    "service-worker.js": "/tibianfinder/service-worker.js",
+    "static/css/2.1bd2ab2f.chunk.css.map": "/tibianfinder/static/css/2.1bd2ab2f.chunk.css.map",
+    "static/js/2.73b8fff8.chunk.js.LICENSE.txt": "/tibianfinder/static/js/2.73b8fff8.chunk.js.LICENSE.txt",
+    "static/media/background.png": "/tibianfinder/static/media/background.35f57562.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11a6e0b4.js",
+    "static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.73b8fff8.chunk.js",
+    "static/js/main.4ced2cd8.chunk.js"
+  ]
+}
