@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9bd3b5d3b9c67c6dfe82fe66dbcfc6de",
+    "revision": "45cfc7704faf14c703fd0f6d36a78ba8",
     "url": "/tibianfinder/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tibianfinder/static/js/2.73b8fff8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10635df37175f803b413",
-    "url": "/tibianfinder/static/js/main.4ced2cd8.chunk.js"
+    "revision": "bd63d16ab5fa5a25152a",
+    "url": "/tibianfinder/static/js/main.21c4a8b0.chunk.js"
   },
   {
     "revision": "5ff33cf57cab66ced4d9",
