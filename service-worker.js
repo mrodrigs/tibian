@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tibian/precache-manifest.fc6f15251024805b4cba0e48626955ee.js"
+  "/tibian/precache-manifest.14ec5da7f4241b6fa9e5041d08479495.js"
 );
 
 self.addEventListener('message', (event) => {

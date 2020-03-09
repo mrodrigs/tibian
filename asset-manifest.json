@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/tibian/static/js/main.21c4a8b0.chunk.js",
-    "main.js.map": "/tibian/static/js/main.21c4a8b0.chunk.js.map",
+    "main.js": "/tibian/static/js/main.a1ffe3d5.chunk.js",
+    "main.js.map": "/tibian/static/js/main.a1ffe3d5.chunk.js.map",
     "runtime-main.js": "/tibian/static/js/runtime-main.da91e9df.js",
     "runtime-main.js.map": "/tibian/static/js/runtime-main.da91e9df.js.map",
     "static/css/2.1bd2ab2f.chunk.css": "/tibian/static/css/2.1bd2ab2f.chunk.css",
     "static/js/2.263a7533.chunk.js": "/tibian/static/js/2.263a7533.chunk.js",
     "static/js/2.263a7533.chunk.js.map": "/tibian/static/js/2.263a7533.chunk.js.map",
     "index.html": "/tibian/index.html",
-    "precache-manifest.fc6f15251024805b4cba0e48626955ee.js": "/tibian/precache-manifest.fc6f15251024805b4cba0e48626955ee.js",
+    "precache-manifest.14ec5da7f4241b6fa9e5041d08479495.js": "/tibian/precache-manifest.14ec5da7f4241b6fa9e5041d08479495.js",
     "service-worker.js": "/tibian/service-worker.js",
     "static/css/2.1bd2ab2f.chunk.css.map": "/tibian/static/css/2.1bd2ab2f.chunk.css.map",
     "static/js/2.263a7533.chunk.js.LICENSE.txt": "/tibian/static/js/2.263a7533.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.da91e9df.js",
     "static/css/2.1bd2ab2f.chunk.css",
     "static/js/2.263a7533.chunk.js",
-    "static/js/main.21c4a8b0.chunk.js"
+    "static/js/main.a1ffe3d5.chunk.js"
   ]
 }

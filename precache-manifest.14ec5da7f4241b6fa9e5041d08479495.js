@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9f6e53444b928afe259bec22f9b2a8c",
+    "revision": "211d29eb3f75ce16657a841860a43377",
     "url": "/tibian/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tibian/static/js/2.263a7533.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bd63d16ab5fa5a25152a",
-    "url": "/tibian/static/js/main.21c4a8b0.chunk.js"
+    "revision": "5ec4b386f333da1f964c",
+    "url": "/tibian/static/js/main.a1ffe3d5.chunk.js"
   },
   {
     "revision": "162dfc8fa5555b530457",
