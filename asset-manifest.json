@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/tibianfinder/static/js/main.21c4a8b0.chunk.js",
-    "main.js.map": "/tibianfinder/static/js/main.21c4a8b0.chunk.js.map",
-    "runtime-main.js": "/tibianfinder/static/js/runtime-main.11a6e0b4.js",
-    "runtime-main.js.map": "/tibianfinder/static/js/runtime-main.11a6e0b4.js.map",
-    "static/css/2.1bd2ab2f.chunk.css": "/tibianfinder/static/css/2.1bd2ab2f.chunk.css",
-    "static/js/2.73b8fff8.chunk.js": "/tibianfinder/static/js/2.73b8fff8.chunk.js",
-    "static/js/2.73b8fff8.chunk.js.map": "/tibianfinder/static/js/2.73b8fff8.chunk.js.map",
-    "index.html": "/tibianfinder/index.html",
-    "precache-manifest.53f5d439d54501f87cf7b3a05bc13eea.js": "/tibianfinder/precache-manifest.53f5d439d54501f87cf7b3a05bc13eea.js",
-    "service-worker.js": "/tibianfinder/service-worker.js",
-    "static/css/2.1bd2ab2f.chunk.css.map": "/tibianfinder/static/css/2.1bd2ab2f.chunk.css.map",
-    "static/js/2.73b8fff8.chunk.js.LICENSE.txt": "/tibianfinder/static/js/2.73b8fff8.chunk.js.LICENSE.txt",
-    "static/media/background.png": "/tibianfinder/static/media/background.35f57562.png"
+    "main.js": "/tibian/static/js/main.21c4a8b0.chunk.js",
+    "main.js.map": "/tibian/static/js/main.21c4a8b0.chunk.js.map",
+    "runtime-main.js": "/tibian/static/js/runtime-main.da91e9df.js",
+    "runtime-main.js.map": "/tibian/static/js/runtime-main.da91e9df.js.map",
+    "static/css/2.1bd2ab2f.chunk.css": "/tibian/static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.263a7533.chunk.js": "/tibian/static/js/2.263a7533.chunk.js",
+    "static/js/2.263a7533.chunk.js.map": "/tibian/static/js/2.263a7533.chunk.js.map",
+    "index.html": "/tibian/index.html",
+    "precache-manifest.fc6f15251024805b4cba0e48626955ee.js": "/tibian/precache-manifest.fc6f15251024805b4cba0e48626955ee.js",
+    "service-worker.js": "/tibian/service-worker.js",
+    "static/css/2.1bd2ab2f.chunk.css.map": "/tibian/static/css/2.1bd2ab2f.chunk.css.map",
+    "static/js/2.263a7533.chunk.js.LICENSE.txt": "/tibian/static/js/2.263a7533.chunk.js.LICENSE.txt",
+    "static/media/background.png": "/tibian/static/media/background.35f57562.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.11a6e0b4.js",
+    "static/js/runtime-main.da91e9df.js",
     "static/css/2.1bd2ab2f.chunk.css",
-    "static/js/2.73b8fff8.chunk.js",
+    "static/js/2.263a7533.chunk.js",
     "static/js/main.21c4a8b0.chunk.js"
   ]
 }
